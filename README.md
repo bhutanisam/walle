@@ -3,6 +3,7 @@
 A small, simple autonomous agent that searches a grid world for EVE using noisy
 signal readings, a few hidden clues, and a limited battery.
 Built for the VinnovateIT AI/ML recruitment task (Task 2). Pure Python 3, **no libraries needed**.
+Built using ai assistance, have understood the project and can explain each part (i am still in learning phase)
 
 ## Run it
 
