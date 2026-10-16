@@ -1,0 +1,29 @@
+MISSION REPORT: mission1
+========================================
+Stopped because : confident
+Steps used      : 13   Battery left: 23
+Evidence found  :
+  - initial signal: direction NE, strength 40
+  - scan at (1, 8): direction (1, -1), strength 35
+  - scan at (1, 5): direction (1, -1), strength 50
+  - scan at (2, 3): direction (1, -1), strength 65
+  - clue at (2, 2): EVE within 2 cells of (7, 1)
+  - scan at (4, 2): direction (1, 0), strength 90
+Inferred EVE location : (7, 2)
+Confidence            : 91%
+Status                : EVE is most likely stationary at (7, 2) (inferred, not directly seen)
+Recommended next step : WALL-E should travel to (7, 2) and visually confirm.
+
+[Evaluation only] True EVE location: (7, 2) -> guess CORRECT
+
+Map  (* path, # clue found, C charger, G guess, E true EVE, ! guess = EVE)
+. . . . . . . . . . 
+. . . . . . . . . . 
+. . # * * . . ! . . 
+. . * * . . . . . . 
+. * * . . . . . . . 
+. * . . . . . . . . 
+. * . . . . . . . . 
+. * . . . . . . . . 
+. * . . . . . . . . 
+C . . . . . . . . . 

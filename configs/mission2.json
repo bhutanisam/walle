@@ -1,0 +1,13 @@
+{
+  "name": "mission2",
+  "seed": 7,
+  "grid": [10, 10],
+  "start": [8, 8],
+  "charger": [0, 9],
+  "eve": [2, 3],
+  "max_steps": 80,
+  "battery": {"start": 30, "max": 50},
+  "costs": {"move": 1, "scan": 2, "recharge_gain": 20},
+  "initial_signal": {"direction": "NW", "strength": 35, "timestamp": "00:00"},
+  "clues": [[5, 5], [3, 4], [7, 1], [1, 7], [9, 4]]
+}
